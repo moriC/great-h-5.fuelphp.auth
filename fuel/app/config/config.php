@@ -24,7 +24,6 @@ return array(
 	 *
 	 * Set this to null to have it automatically detected.
 	 */
-	// 'base_url'  => null,
 
 	/**
 	 * url_suffix - Any suffix that needs to be added to
@@ -42,7 +41,6 @@ return array(
 	 *
 	 * Set this to 'index.php if you don't use URL rewriting
 	 */
-	// 'index_file' => false,
 
 	// 'profiling'  => false,
 
