@@ -115,7 +115,7 @@ return array(
 	/**
 	 * Salt for the login hash
 	 */
-	'login_hash_salt' => 'put_some_salt_in_here',
+	'login_hash_salt' => 'greate-h+with+moriC',
 
 	/**
 	 * $_POST key for login username

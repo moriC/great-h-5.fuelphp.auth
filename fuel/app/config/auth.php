@@ -22,8 +22,12 @@
  */
 
 return array(
+	# どのドライバーを使うか
 	'driver' => 'Simpleauth',
+	# マルチログインを許可するか
 	'verify_multiple_logins' => false,
-	'salt' => 'put_your_salt_here',
+	# セキュリティソルトを設定	
+	'salt' => 'greate-h+with+moriC',
+	# パスワードを暗号化する回数
 	'iterations' => 10000,
 );
